@@ -1,12 +1,19 @@
 {
-  "name": "my-node-app",
+  "name": "@vinodjaina/vin-node-app",
   "version": "1.0.0",
+  "description": "A simple Node.js app for learning GitHub Packages.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/your-username/vin-node-app.git"
+  },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "description": ""
+  "author": "Your Name",
+  "license": "MIT"
 }
