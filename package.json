@@ -1,6 +1,6 @@
 {
   "name": "@vinodjaina/vin-node-app",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple Node.js app for learning GitHub Packages.",
   "main": "index.js",
   "scripts": {
